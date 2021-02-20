@@ -1,0 +1,532 @@
+{
+  "quotes": [
+    {
+      "quote": "Test Quote - Hello World!",
+      "id": 1
+    },
+    {
+      "quote": "We've gotten comfortable with not having what we deserve",
+      "id": 2
+    },
+    {
+      "quote": "My dad got me a drone for Christmas",
+      "id": 3
+    },
+    {
+      "quote": "We all self-conscious. I'm just the first to admit it.",
+      "id": 4
+    },
+    {
+      "quote": "One day I'm gon' marry a porn star",
+      "id": 5
+    },
+    {
+      "quote": "Artists are founders",
+      "id": 6
+    },
+    {
+      "quote": "So many of us need so much less than we have especially when so many of us are in need",
+      "id": 7
+    },
+    {
+      "quote": "Manga all day",
+      "id": 8
+    },
+    {
+      "quote": "There's a crying need for civility across the board. We need to and will come together in the name of Jesus.",
+      "id": 9
+    },
+    {
+      "quote": "2024",
+      "id": 10
+    },
+    {
+      "quote": "My greatest pain in life is that I will never be able to see myself perform live.",
+      "id": 11
+    },
+    {
+      "quote": "I'd like to meet with Tim Cook. I got some ideas",
+      "id": 12
+    },
+    {
+      "quote": "Manga all day",
+      "id": 13
+    },
+    {
+      "quote": "I'm the best",
+      "id": 14
+    },
+    {
+      "quote": "All the musicians will be free",
+      "id": 15
+    },
+    {
+      "quote": "My dad got me a drone for Christmas",
+      "id": 16
+    },
+    {
+      "quote": "People say it's enough and I got my point across ... the point isn't across until we cross the point",
+      "id": 17
+    },
+    {
+      "quote": "I'm nice at ping pong",
+      "id": 18
+    },
+    {
+      "quote": "I'm giving all Good music artists back the 50% share I have of their masters",
+      "id": 19
+    },
+    {
+      "quote": "I still think I am the greatest.",
+      "id": 20
+    },
+    {
+      "quote": "We're going to move the entire music industry into the 21st Century",
+      "id": 21
+    },
+    {
+      "quote": "I give up drinking every week",
+      "id": 22
+    },
+    {
+      "quote": "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
+      "id": 23
+    },
+    {
+      "quote": "The thought police want to suppress freedom of thought",
+      "id": 24
+    },
+    {
+      "quote": "Who made up the term major label in the first place???",
+      "id": 25
+    },
+    {
+      "quote": "There are people sleeping in parking lots",
+      "id": 26
+    },
+    {
+      "quote": "I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend",
+      "id": 27
+    },
+    {
+      "quote": "Decentralize",
+      "id": 28
+    },
+    {
+      "quote": "There's so many lonely emojis man",
+      "id": 29
+    },
+    {
+      "quote": "The world is our family",
+      "id": 30
+    },
+    {
+      "quote": "We must and will cure homelessness and hunger. We have the capability as a species",
+      "id": 31
+    },
+    {
+      "quote": "Who made up the term major label in the first place???",
+      "id": 32
+    },
+    {
+      "quote": "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory.",
+      "id": 33
+    },
+    {
+      "quote": "I hate when I'm on a flight and I wake up with a water bottle next to me like oh great now I gotta be responsible for this water bottle",
+      "id": 34
+    },
+    {
+      "quote": "I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates",
+      "id": 35
+    },
+    {
+      "quote": "Sometimes you have to get rid of everything",
+      "id": 36
+    },
+    {
+      "quote": "All the musicians will be free",
+      "id": 37
+    },
+    {
+      "quote": "I want the world to be better! All I want is positive! All I want is dopeness!",
+      "id": 38
+    },
+    {
+      "quote": "I'm going to personally see to it that Taylor Swift gets her masters back. Scooter is a close family friend",
+      "id": 39
+    },
+    {
+      "quote": "My mother in law Kris Jenner ... makes the best music playlist",
+      "id": 40
+    },
+    {
+      "quote": "There are people sleeping in parking lots",
+      "id": 41
+    },
+    {
+      "quote": "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
+      "id": 42
+    },
+    {
+      "quote": "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
+      "id": 43
+    },
+    {
+      "quote": "All you have to be is yourself",
+      "id": 44
+    },
+    {
+      "quote": "People only get jealous when they care.",
+      "id": 45
+    },
+    {
+      "quote": "Life is the ultimate gift",
+      "id": 46
+    },
+    {
+      "quote": "If I don't scream, if I don't say something then no one's going to say anything.",
+      "id": 47
+    },
+    {
+      "quote": "Sometimes you have to get rid of everything",
+      "id": 48
+    },
+    {
+      "quote": "There's so many lonely emojis man",
+      "id": 49
+    },
+    {
+      "quote": "Speak God's truth to power",
+      "id": 50
+    },
+    {
+      "quote": "We will change the paradigm",
+      "id": 51
+    },
+    {
+      "quote": "Perhaps I should have been more like water today",
+      "id": 52
+    },
+    {
+      "quote": "Life is the ultimate gift",
+      "id": 53
+    },
+    {
+      "quote": "I'm nice at ping pong",
+      "id": 54
+    },
+    {
+      "quote": "People say it's enough and I got my point across ... the point isn't across until we cross the point",
+      "id": 55
+    },
+    {
+      "quote": "I channel Will Ferrell when I'm at the daddy daughter dances",
+      "id": 56
+    },
+    {
+      "quote": "Ma$e is one of my favorite rappers and I based a lot of my flows off of him",
+      "id": 57
+    },
+    {
+      "quote": "I'd like to meet with Tim Cook. I got some ideas",
+      "id": 58
+    },
+    {
+      "quote": "Manga all day",
+      "id": 59
+    },
+    {
+      "quote": "We all self-conscious. I'm just the first to admit it.",
+      "id": 60
+    },
+    {
+      "quote": "George Bush doesn't care about black people",
+      "id": 61
+    },
+    {
+      "quote": "People tried to talk me out of running for President. Never let weak controlling people kill your spirit",
+      "id": 62
+    },
+    {
+      "quote": "Let's be like water",
+      "id": 63
+    },
+    {
+      "quote": "I need an army of angels to cover me while I pull this sword out of the stone",
+      "id": 64
+    },
+    {
+      "quote": "I am running for President of the United States",
+      "id": 65
+    },
+    {
+      "quote": "If I don't scream, if I don't say something then no one's going to say anything.",
+      "id": 66
+    },
+    {
+      "quote": "I'm giving all Good music artists back the 50% share I have of their masters",
+      "id": 67
+    },
+    {
+      "quote": "For me giving up is way harder than trying.",
+      "id": 68
+    },
+    {
+      "quote": "I make awesome decisions in bike stores!!!",
+      "id": 69
+    },
+    {
+      "quote": "Empathy is the glue",
+      "id": 70
+    },
+    {
+      "quote": "I love UZI. I be saying the same thing about Steve Jobs. I be feeling just like UZI",
+      "id": 71
+    },
+    {
+      "quote": "People tried to talk me out of running for President. Never let weak controlling people kill your spirit",
+      "id": 72
+    },
+    {
+      "quote": "Trust me ... I won't stop",
+      "id": 73
+    },
+    {
+      "quote": "All the musicians will be free",
+      "id": 74
+    },
+    {
+      "quote": "Winning is the only option",
+      "id": 75
+    },
+    {
+      "quote": "George Bush doesn't care about black people",
+      "id": 76
+    },
+    {
+      "quote": "We will heal. We will cure.",
+      "id": 77
+    },
+    {
+      "quote": "I watch Bladerunner on repeat",
+      "id": 78
+    },
+    {
+      "quote": "I hear people say this person is cool and this person is not cool. People are cool. Man has never invented anything as awesome as a an actual person but sometimes we value the objects we create over life itself",
+      "id": 79
+    },
+    {
+      "quote": "I am one of the most famous people on the planet",
+      "id": 80
+    },
+    {
+      "quote": "We must form a union. We must unify",
+      "id": 81
+    },
+    {
+      "quote": "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
+      "id": 82
+    },
+    {
+      "quote": "Two years ago we had 50 million people subscribed to music streaming services around the world. Today we have 400 million.",
+      "id": 83
+    },
+    {
+      "quote": "Ma$e is one of my favorite rappers and I based a lot of my flows off of him",
+      "id": 84
+    },
+    {
+      "quote": "One day I'm gon' marry a porn star",
+      "id": 85
+    },
+    {
+      "quote": "Manga all day",
+      "id": 86
+    },
+    {
+      "quote": "So many of us need so much less than we have especially when so many of us are in need",
+      "id": 87
+    },
+    {
+      "quote": "I feel calm but energized",
+      "id": 88
+    },
+    {
+      "quote": "My first pillar when I'm on the board of adidas will be an adidas Nike collaboration to support community growth",
+      "id": 89
+    },
+    {
+      "quote": "There are people sleeping in parking lots",
+      "id": 90
+    },
+    {
+      "quote": "My greatest award is what I'm about to do.",
+      "id": 91
+    },
+    {
+      "quote": "Perhaps I should have been more like water today",
+      "id": 92
+    },
+    {
+      "quote": "I think I do myself a disservice by comparing myself to Steve Jobs and Walt Disney and human beings that we've seen before. It should be more like Willy Wonka...and welcome to my chocolate factory.",
+      "id": 93
+    },
+    {
+      "quote": "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
+      "id": 94
+    },
+    {
+      "quote": "People only get jealous when they care.",
+      "id": 95
+    },
+    {
+      "quote": "We must form a union. We must unify",
+      "id": 96
+    },
+    {
+      "quote": "I feel like I'm too busy writing history to read it.",
+      "id": 97
+    },
+    {
+      "quote": "Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?",
+      "id": 98
+    },
+    {
+      "quote": "If I don't scream, if I don't say something then no one's going to say anything.",
+      "id": 99
+    },
+    {
+      "quote": "George Bush doesn't care about black people",
+      "id": 100
+    },
+    {
+      "quote": "People always say that you can't please everybody. I think that's a cop-out. Why not attempt it? Cause think of all the people that you will please if you try.",
+      "id": 101
+    },
+    {
+      "quote": "One day I'm gon' marry a porn star",
+      "id": 102
+    },
+    {
+      "quote": "Empathy is the glue",
+      "id": 103
+    },
+    {
+      "quote": "I feel like me and Taylor might still have sex",
+      "id": 104
+    },
+    {
+      "quote": "Perhaps I should have been more like water today",
+      "id": 105
+    },
+    {
+      "quote": "We must and will cure homelessness and hunger. We have the capability as a species",
+      "id": 106
+    },
+    {
+      "quote": "We will cure hunger",
+      "id": 107
+    },
+    {
+      "quote": "One of my favorite of many things about what the Trump hat represents to me is that people can't tell me what to do because I'm black",
+      "id": 108
+    },
+    {
+      "quote": "Everything you do in life stems from either fear or love",
+      "id": 109
+    },
+    {
+      "quote": "I spoke to Dave Chapelle for two hours this morning. He is our modern day Socrates",
+      "id": 110
+    },
+    {
+      "quote": "I care. I care about everything. Sometimes not giving a f#%k is caring the most.",
+      "id": 111
+    },
+    {
+      "quote": "I feel like I'm too busy writing history to read it.",
+      "id": 112
+    },
+    {
+      "quote": "The media tries to kill our heroes one at a time",
+      "id": 113
+    },
+    {
+      "quote": "My mother in law Kris Jenner ... makes the best music playlist",
+      "id": 114
+    },
+    {
+      "quote": "Tweeting is legal and also therapeutic",
+      "id": 115
+    },
+    {
+      "quote": "Buy property",
+      "id": 116
+    },
+    {
+      "quote": "I love sleep; it's my favorite.",
+      "id": 117
+    },
+    {
+      "quote": "I want the world to be better! All I want is positive! All I want is dopeness!",
+      "id": 118
+    },
+    {
+      "quote": "Man... whatever happened to my antique fish tank?",
+      "id": 119
+    },
+    {
+      "quote": "Shut the fuck up I will fucking laser you with alien fucking eyes and explode your fucking head",
+      "id": 120
+    },
+    {
+      "quote": "Manga all day",
+      "id": 121
+    },
+    {
+      "quote": "We have to evolve",
+      "id": 122
+    },
+    {
+      "quote": "Perhaps I should have been more like water today",
+      "id": 123
+    },
+    {
+      "quote": "There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness",
+      "id": 124
+    },
+    {
+      "quote": "There are 5 main pillars in a professional musicians business - Recording, Publishing, Touring, Merchandise & Name and likeness",
+      "id": 125
+    },
+    {
+      "quote": "Only free thinkers",
+      "id": 126
+    },
+    {
+      "quote": "Sometimes I push the door close button on people running towards the elevator. I just need my own elevator sometimes. My sanctuary.",
+      "id": 127
+    },
+    {
+      "quote": "You can't look at a glass half full or empty if it's overflowing.",
+      "id": 128
+    },
+    {
+      "quote": "Everything you do in life stems from either fear or love",
+      "id": 129
+    },
+    {
+      "quote": "Trust me ... I won't stop",
+      "id": 130
+    },
+    {
+      "quote": "George Bush doesn't care about black people",
+      "id": 131
+    },
+    {
+      "quote": "I still think I am the greatest.",
+      "id": 132
+    }
+  ]
+}
